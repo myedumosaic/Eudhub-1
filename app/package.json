@@ -14,7 +14,8 @@
     "next": "16.2.6",
     "pg": "8.20.0",
     "react": "19.2.6",
-    "react-dom": "19.2.6"
+    "react-dom": "19.2.6",
+    "typescript": "7.0.2"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "4.1.17",
@@ -26,7 +27,6 @@
     "eslint": "9.39.4",
     "eslint-config-next": "16.2.6",
     "postcss": "8.5.8",
-    "tailwindcss": "4.1.17",
-    "typescript": "7.0.2"
+    "tailwindcss": "4.1.17"
   }
 }
