@@ -1,3 +1,0 @@
-module.exports=[82800,a=>{"use strict";var b=a.i(34627);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"en",children:(0,b.jsx)("body",{className:"bg-[#f6f7fb] text-slate-900 antialiased",children:a})})},"metadata",0,{title:"Scholarly — School ERP for Teachers",description:"A modern multi-tenant school management platform for teachers: classes, students, gradebook, attendance and more."}])},18816,a=>{a.n(a.i(82800))}];
-
-//# sourceMappingURL=app_src_app_layout_tsx_0jvw5fq._.js.map
