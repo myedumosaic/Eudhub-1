@@ -59,7 +59,8 @@ export async function POST(req: Request) {
 
     await createSession(user.id);
     return Response.json({ ok: true });
-  } catch {
+  } catch (error) {
+    console.error("Registration failed:", error);
     return Response.json({ error: "Something went wrong" }, { status: 500 });
   }
 }
